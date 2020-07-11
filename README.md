@@ -1,4 +1,4 @@
-![city-night](illuminated-cityscape-against-blue-sky-at-night-316093.jpg)
+<img src="https://github.com/Tomahaawk/Tomahaawk/blob/images/illuminated-cityscape-against-blue-sky-at-night-316093.jpg" />
 
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/Tomahaawk)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://github.com/Tomahaawk)
