@@ -1,7 +1,7 @@
 <img src="https://github.com/Tomahaawk/Tomahaawk/blob/images/illuminated-cityscape-against-blue-sky-at-night-316093.png" />
 
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/Tomahaawk)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://github.com/Tomahaawk)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-fernandes-830092ab/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&labelColor=C13584&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/lucasfo94/?hl=pt-br)
 
 <!--
