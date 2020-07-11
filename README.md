@@ -1,5 +1,4 @@
-![City Night](illuminated-cityscape-against-blue-sky-at-night-316093.jpg)
-![kisses-look-down](https://user-images.githubusercontent.com/42419543/87210986-ffa0fe00-c2ed-11ea-8870-402291667a06.gif)
+![city-night](illuminated-cityscape-against-blue-sky-at-night-316093.jpg)
 
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/Tomahaawk)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://github.com/Tomahaawk)
